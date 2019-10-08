@@ -1,4 +1,4 @@
 com:
   springcloud:
     wsh:
-      message: Spring Cloud Config分布式配置中心(测试环境) 更新版
+      message: Spring Cloud Config分布式配置中心(测试环境)
